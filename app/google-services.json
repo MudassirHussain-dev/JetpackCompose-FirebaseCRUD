@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629478774872",
+    "project_id": "jpcfirebasejetpackcompose",
+    "storage_bucket": "jpcfirebasejetpackcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629478774872:android:7da49ed63776829814922d",
+        "android_client_info": {
+          "package_name": "dev.hmh.jpcfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629478774872-pg7vjlhpbf5ae4d7fv54teompvc69qh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABssFscKLgf2vH3ZuDArT0TRuhVgu8y54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629478774872-pg7vjlhpbf5ae4d7fv54teompvc69qh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
